@@ -1,0 +1,3377 @@
+source,target
+abdomen,pelvis
+abdomen,pelvis
+abdomen,pelvis
+abdomen,pelvis
+abdomen,pelvis
+abdomen,pelvis
+liver,spleen
+liver,pancreas
+liver,pancreas
+liver,spleen
+liver,pancreas
+liver,pancreas
+liver,spleen
+liver,pancreas
+liver,pancreas
+liver,spleen
+liver,pancreas
+liver,pancreas
+skin,needle
+skin,sheath
+skin,abdomen
+skin,stomach
+skin,needle
+skin,sheath
+skin,abdomen
+skin,stomach
+skin,needle
+skin,sheath
+skin,abdomen
+skin,stomach
+skin,needle
+skin,sheath
+skin,abdomen
+skin,stomach
+skin,needle
+skin,sheath
+skin,abdomen
+skin,stomach
+needle,guidewire
+needle,sheath
+needle,guidewire
+needle,sheath
+needle,guidewire
+needle,sheath
+guidewire,mouth
+guidewire,esophagus
+guidewire,abdominal wall
+guidewire,mouth
+guidewire,esophagus
+guidewire,abdominal wall
+guidewire,mouth
+guidewire,esophagus
+guidewire,abdominal wall
+guidewire,mouth
+guidewire,esophagus
+guidewire,abdominal wall
+endoscope,esophagus
+endoscope,esophagus
+patient,female
+patient,female
+female,patient
+female,patient
+potassium,chest
+potassium,chest
+diaphragm,anterior
+diaphragm,anterior
+diaphragm,anterior
+antrum,stomach
+antrum,stomach
+cardia,esophageal sphincter
+cardia,esophageal sphincter
+patient,demerol
+patient,demerol
+hypopharynx,esophagus
+hypopharynx,esophagus
+esophagus,stomach
+esophagus,stomach
+esophagus,pylorus
+esophagus,duodenal bulb
+esophagus,stomach
+esophagus,stomach
+esophagus,pylorus
+esophagus,duodenal bulb
+esophagus,stomach
+esophagus,stomach
+esophagus,pylorus
+esophagus,duodenal bulb
+esophagus,stomach
+esophagus,stomach
+esophagus,pylorus
+esophagus,duodenal bulb
+esophagus,stomach
+esophagus,stomach
+esophagus,pylorus
+esophagus,duodenal bulb
+lumen,bowel
+lumen,bowel
+biopsy,antrum
+biopsy,stomach
+biopsy,antrum
+biopsy,stomach
+biopsy,antrum
+biopsy,stomach
+diverticular,patient
+diverticular,patient
+patient,demerol
+patient,cecum
+patient,demerol
+patient,cecum
+patient,demerol
+patient,cecum
+stool,colon
+stool,colon
+diverticular,colon
+diverticular,colon
+skin,subcutaneous tissue
+skin,subcutaneous tissue
+stomach,tube
+stomach,tube
+stomach,abdominal cavity
+stomach,abdominal cavity
+stomach,abdominal cavity
+abdominal wall,skin
+abdominal wall,subcutaneous tissue
+abdominal wall,muscle
+abdominal wall,patient
+abdominal wall,gentleman
+abdominal wall,sigmoid
+abdominal wall,diverticular
+abdominal wall,skin
+abdominal wall,subcutaneous tissue
+abdominal wall,muscle
+abdominal wall,patient
+abdominal wall,gentleman
+abdominal wall,sigmoid
+abdominal wall,diverticular
+abdominal wall,skin
+abdominal wall,subcutaneous tissue
+abdominal wall,muscle
+abdominal wall,patient
+abdominal wall,gentleman
+abdominal wall,sigmoid
+abdominal wall,diverticular
+abdominal wall,skin
+abdominal wall,subcutaneous tissue
+abdominal wall,muscle
+abdominal wall,patient
+abdominal wall,gentleman
+abdominal wall,sigmoid
+abdominal wall,diverticular
+abdominal wall,skin
+abdominal wall,subcutaneous tissue
+abdominal wall,muscle
+abdominal wall,patient
+abdominal wall,gentleman
+abdominal wall,sigmoid
+abdominal wall,diverticular
+abdominal wall,skin
+abdominal wall,subcutaneous tissue
+abdominal wall,muscle
+abdominal wall,patient
+abdominal wall,gentleman
+abdominal wall,sigmoid
+abdominal wall,diverticular
+abdominal wall,skin
+abdominal wall,subcutaneous tissue
+abdominal wall,muscle
+abdominal wall,patient
+abdominal wall,gentleman
+abdominal wall,sigmoid
+abdominal wall,diverticular
+abdominal wall,skin
+abdominal wall,subcutaneous tissue
+abdominal wall,muscle
+abdominal wall,patient
+abdominal wall,gentleman
+abdominal wall,sigmoid
+abdominal wall,diverticular
+abdominal wall,skin
+abdominal wall,subcutaneous tissue
+abdominal wall,muscle
+abdominal wall,patient
+abdominal wall,gentleman
+abdominal wall,sigmoid
+abdominal wall,diverticular
+patient,fascia
+patient,fascia
+wound,patient
+wound,anesthesia
+wound,abdomen
+wound,betadine
+wound,patient
+wound,anesthesia
+wound,abdomen
+wound,betadine
+wound,patient
+wound,anesthesia
+wound,abdomen
+wound,betadine
+wound,patient
+wound,anesthesia
+wound,abdomen
+wound,betadine
+wound,patient
+wound,anesthesia
+wound,abdomen
+wound,betadine
+extremities,female
+extremities,female
+abdomen,pelvis
+abdomen,intravenous
+abdomen,pelvis
+abdomen,pelvis
+abdomen,intravenous
+abdomen,pelvis
+abdomen,pelvis
+abdomen,intravenous
+abdomen,pelvis
+abdomen,pelvis
+abdomen,intravenous
+abdomen,pelvis
+abdomen,pelvis
+abdomen,intravenous
+abdomen,pelvis
+gallbladder,adrenal glands
+gallbladder,pancreas
+gallbladder,spleen
+gallbladder,adrenal glands
+gallbladder,pancreas
+gallbladder,spleen
+gallbladder,adrenal glands
+gallbladder,pancreas
+gallbladder,spleen
+gallbladder,adrenal glands
+gallbladder,pancreas
+gallbladder,spleen
+patient,gentleman
+patient,gentleman
+patient,area
+patient,betadine
+patient,area
+patient,betadine
+patient,area
+patient,betadine
+guidewire,gallbladder
+guidewire,patient
+guidewire,gallbladder
+guidewire,patient
+guidewire,gallbladder
+guidewire,patient
+lidocaine,female
+lidocaine,female
+esophagus,stomach
+esophagus,duodenum
+esophagus,stomach
+esophagus,duodenum
+esophagus,stomach
+esophagus,duodenum
+area,lidocaine
+area,lidocaine
+needle,lumen
+needle,stomach
+needle,lumen
+needle,stomach
+needle,lumen
+needle,stomach
+guidewire,fascia
+guidewire,fascia
+guidewire,lumen
+guidewire,stomach
+guidewire,lumen
+guidewire,stomach
+guidewire,lumen
+guidewire,stomach
+guidewire,lumen
+guidewire,stomach
+guidewire,lumen
+guidewire,stomach
+guidewire,lumen
+guidewire,stomach
+anesthesia,patient
+anesthesia,gentleman
+anesthesia,patient
+anesthesia,gentleman
+anesthesia,patient
+anesthesia,gentleman
+wound,mucosa
+wound,mucosa
+marcaine,umbilicus
+marcaine,umbilicus
+subcostal,anterior
+subcostal,anterior
+subcostal,anterior
+subcostal,anterior
+midline,subxiphoid
+midline,subxiphoid
+anesthesia,stomach
+anesthesia,stomach
+mesentery,stomach
+mesentery,stomach
+stomach,anesthesia
+stomach,anesthesia
+stomach,anesthesia
+pouch,small bowel
+pouch,small bowel
+mouth,esophagus
+mouth,esophagus
+patient,man
+patient,man
+patient,pancreas
+patient,pancreas
+potassium,creatinine
+potassium,creatinine
+bilirubin,albumin
+bilirubin,albumin
+patient,bilirubin
+patient,bilirubin
+patient,female
+patient,female
+colon,patient
+colon,patient
+sigmoid,colon
+sigmoid,colon
+cecum,patient
+cecum,patient
+cecum,ileocecal valve
+cecum,ileocecal valve
+patient,female
+patient,ulcers
+patient,female
+patient,ulcers
+patient,female
+patient,ulcers
+phenergan,patient
+phenergan,rectum
+phenergan,patient
+phenergan,rectum
+phenergan,patient
+phenergan,rectum
+biopsies,ileum
+biopsies,ileum
+ileum,biopsies
+ileum,biopsies
+biopsies,patient
+biopsies,patient
+patient,meals
+patient,meals
+anterior,abdomen
+anterior,abdomen
+umbilicus,tissues
+umbilicus,tissues
+abdominal cavity,carbon dioxide
+abdominal cavity,carbon dioxide
+gallbladder,liver
+gallbladder,liver
+gallbladder,umbilical
+gallbladder,umbilical
+abdominal cavity,trocar
+abdominal cavity,trocar
+abdomen,pelvis
+abdomen,abdominal
+abdomen,pelvis
+abdomen,abdominal
+abdomen,pelvis
+abdomen,abdominal
+lesions,spleen
+lesions,spleen
+bladder,urine
+bladder,urine
+lesions,spleen
+lesions,spleen
+patient,gentleman
+patient,gentleman
+cecum,stool
+cecum,patient
+cecum,stool
+cecum,patient
+cecum,stool
+cecum,patient
+cecum,stool
+cecum,patient
+patient,lidocaine
+patient,lidocaine
+patient,lidocaine
+patient,area
+patient,area
+patient,area
+area,skin
+area,subcutaneous tissue
+area,lidocaine
+area,liver
+area,skin
+area,subcutaneous tissue
+area,lidocaine
+area,liver
+area,skin
+area,subcutaneous tissue
+area,lidocaine
+area,liver
+area,skin
+area,subcutaneous tissue
+area,lidocaine
+area,liver
+area,skin
+area,subcutaneous tissue
+area,lidocaine
+area,liver
+liver,patient
+liver,patient
+patient,abdominal
+patient,abdominal
+patient,hepatitis
+patient,hepatitis
+sigmoid,biopsy
+sigmoid,biopsy
+sigmoid,biopsy
+sigmoid,biopsy
+bowel,sigmoid
+bowel,inflammation
+bowel,sigmoid
+bowel,inflammation
+bowel,sigmoid
+bowel,inflammation
+sigmoid,colon
+sigmoid,colon
+sigmoid,colon
+sigmoid,colon
+sigmoid,colon
+sigmoid,colon
+sigmoid,colon
+sigmoid,colon
+sigmoid,colon
+sigmoid,colon
+colon,inflammation
+colon,inflammation
+patient,coumadin
+patient,coumadin
+patient,coumadin
+patient,coumadin
+polyps,colon
+polyps,colon
+patient,rectum
+patient,cecum
+patient,ileocecal valve
+patient,rectum
+patient,cecum
+patient,ileocecal valve
+patient,rectum
+patient,cecum
+patient,ileocecal valve
+patient,rectum
+patient,cecum
+patient,ileocecal valve
+ileocecal valve,ileum
+ileocecal valve,ileum
+patient,female
+patient,meals
+patient,female
+patient,meals
+patient,female
+patient,meals
+muscles,esophagus
+muscles,esophagus
+patient,meals
+patient,meals
+patient,esophageal
+patient,esophageal
+patient,esophageal
+cystic duct,gallbladder
+cystic duct,gallbladder
+cystic artery,anterior
+cystic artery,cystic duct
+cystic artery,anterior
+cystic artery,cystic duct
+cystic artery,anterior
+cystic artery,cystic duct
+abdomen,liver
+abdomen,liver
+abdominal wall,liver
+abdominal wall,liver
+abdomen,female
+abdomen,female
+abdomen,betadine
+abdomen,betadine
+abdomen,trocar
+abdomen,trocar
+abdomen,trocar
+patient,subxiphoid
+patient,subxiphoid
+trocar,abdomen
+trocar,abdomen
+anterior,cystic duct
+anterior,cystic duct
+cystic duct,anterior
+cystic duct,anterior
+cystic duct,gallbladder
+cystic duct,gallbladder
+gallbladder,gallbladder wall
+gallbladder,gallbladder wall
+gallbladder,subxiphoid
+gallbladder,subxiphoid
+gallstones,gallbladder
+gallstones,gallbladder
+abdomen,gallbladder
+abdomen,anterior abdominal wall
+abdomen,gallbladder
+abdomen,anterior abdominal wall
+abdomen,gallbladder
+abdomen,anterior abdominal wall
+subxiphoid,saline
+subxiphoid,fascia
+subxiphoid,saline
+subxiphoid,fascia
+subxiphoid,saline
+subxiphoid,fascia
+anterior,gentleman
+anterior,gentleman
+cecum,ileum
+cecum,ileum
+patient,saline
+patient,saline
+anesthesia,abdomen
+anesthesia,betadine
+anesthesia,abdomen
+anesthesia,betadine
+anesthesia,abdomen
+anesthesia,betadine
+anterior,rectum
+anterior,anterior abdominal wall
+anterior,rectum
+anterior,anterior abdominal wall
+anterior,rectum
+anterior,anterior abdominal wall
+omentum,abdominal wall
+omentum,anterior
+omentum,abdominal wall
+omentum,anterior
+omentum,abdominal wall
+omentum,anterior
+abdomen,subcutaneous tissue
+abdomen,saline
+abdomen,subcutaneous tissue
+abdomen,saline
+abdomen,subcutaneous tissue
+abdomen,saline
+cecum,ileocecal valve
+cecum,pouch
+cecum,ileocecal valve
+cecum,pouch
+cecum,ileocecal valve
+cecum,pouch
+colonic mucosa,rectum
+colonic mucosa,rectum
+rectum,colon
+rectum,cecum
+rectum,ileocecal valve
+rectum,colon
+rectum,cecum
+rectum,ileocecal valve
+rectum,colon
+rectum,cecum
+rectum,ileocecal valve
+rectum,colon
+rectum,cecum
+rectum,ileocecal valve
+patient,colonic mucosa
+patient,cecum
+patient,colonic mucosa
+patient,cecum
+patient,colonic mucosa
+patient,cecum
+area,pelvis
+area,pelvis
+small bowel,wound
+small bowel,wound
+alcohol,patient
+alcohol,patient
+edema,potassium
+edema,creatinine
+edema,hemoglobin
+edema,potassium
+edema,creatinine
+edema,hemoglobin
+edema,potassium
+edema,creatinine
+edema,hemoglobin
+edema,potassium
+edema,creatinine
+edema,hemoglobin
+abdomen,pelvis
+abdomen,pelvis
+stool,blood
+stool,blood
+stool,blood
+hemoglobin,platelets
+hemoglobin,platelets
+potassium,creatinine
+potassium,creatinine
+stool,blood
+stool,blood
+patient,extremities
+patient,extremities
+esophagus,anesthesia
+esophagus,anesthesia
+fascia,subcutaneous tissue
+fascia,subcutaneous tissue
+fascia,abdominal cavity
+fascia,abdominal cavity
+abdomen,subcutaneous tissue
+abdomen,abdominal wall
+abdomen,trocar
+abdomen,subcutaneous tissue
+abdomen,abdominal wall
+abdomen,trocar
+abdomen,subcutaneous tissue
+abdomen,abdominal wall
+abdomen,trocar
+abdomen,subcutaneous tissue
+abdomen,abdominal wall
+abdomen,trocar
+patient,liver
+patient,liver
+esophagus,hiatal
+esophagus,gastric pouch
+esophagus,hiatal
+esophagus,gastric pouch
+esophagus,hiatal
+esophagus,gastric pouch
+esophagus,hiatal
+esophagus,gastric pouch
+stomach,spleen
+stomach,spleen
+spleen,esophagus
+spleen,esophagus
+gastric pouch,esophagus
+gastric pouch,esophagus
+marcaine,anterior
+marcaine,anterior
+marcaine,wound
+marcaine,anterior
+marcaine,anterior
+marcaine,wound
+marcaine,anterior
+marcaine,anterior
+marcaine,wound
+marcaine,anterior
+marcaine,anterior
+marcaine,wound
+correct.having,patient
+correct.having,patient
+patient,female
+patient,female
+patient,female
+patient,gallbladder
+patient,gallbladder
+patient,abdomen
+patient,abdomen
+gallbladder,fundus
+gallbladder,fundus
+gallbladder,cystic duct
+gallbladder,cystic duct
+gallbladder,liver bed
+gallbladder,liver bed
+endoscope,hypopharynx
+endoscope,hypopharynx
+endoscope,stomach
+endoscope,stomach
+fundus,body
+fundus,stomach
+fundus,body
+fundus,stomach
+fundus,body
+fundus,stomach
+endoscope,duodenum
+endoscope,duodenum
+biopsies,duodenum
+biopsies,antrum
+biopsies,body
+biopsies,esophagus
+biopsies,duodenum
+biopsies,antrum
+biopsies,body
+biopsies,esophagus
+biopsies,duodenum
+biopsies,antrum
+biopsies,body
+biopsies,esophagus
+biopsies,duodenum
+biopsies,antrum
+biopsies,body
+biopsies,esophagus
+biopsies,duodenum
+biopsies,antrum
+biopsies,body
+biopsies,esophagus
+biopsies,antrum
+biopsies,antrum
+biopsies,sigmoid
+biopsies,rectum
+biopsies,sigmoid
+biopsies,rectum
+biopsies,sigmoid
+biopsies,rectum
+biopsies,cecum
+biopsies,rectosigmoid
+biopsies,rectum
+biopsies,cecum
+biopsies,rectosigmoid
+biopsies,rectum
+biopsies,cecum
+biopsies,rectosigmoid
+biopsies,rectum
+biopsies,cecum
+biopsies,rectosigmoid
+biopsies,rectum
+patient,duodenum
+patient,duodenum
+stomach,colon
+stomach,ulcers
+stomach,ileocecal valve
+stomach,colon
+stomach,ulcers
+stomach,ileocecal valve
+stomach,colon
+stomach,ulcers
+stomach,ileocecal valve
+stomach,colon
+stomach,ulcers
+stomach,ileocecal valve
+rectosigmoid,rectum
+rectosigmoid,rectum
+patient,esophagitis
+patient,gastritis
+patient,esophagitis
+patient,gastritis
+patient,esophagitis
+patient,gastritis
+patient,esophagitis
+patient,gastritis
+mouth,oropharynx
+mouth,esophagus
+mouth,oropharynx
+mouth,esophagus
+mouth,oropharynx
+mouth,esophagus
+esophagus,stomach
+esophagus,stomach
+cardia,fundus
+cardia,body
+cardia,antrum
+cardia,stomach
+cardia,fundus
+cardia,body
+cardia,antrum
+cardia,stomach
+cardia,fundus
+cardia,body
+cardia,antrum
+cardia,stomach
+cardia,fundus
+cardia,body
+cardia,antrum
+cardia,stomach
+cardia,fundus
+cardia,body
+cardia,antrum
+cardia,stomach
+duodenal bulb,pylorus
+duodenal bulb,duodenum
+duodenal bulb,stomach
+duodenal bulb,pylorus
+duodenal bulb,duodenum
+duodenal bulb,stomach
+duodenal bulb,pylorus
+duodenal bulb,duodenum
+duodenal bulb,stomach
+duodenal bulb,pylorus
+duodenal bulb,duodenum
+duodenal bulb,stomach
+skin,lidocaine
+skin,lidocaine
+endoscope,mouth
+endoscope,mouth
+patient,oropharynx
+patient,esophagus
+patient,stomach
+patient,oropharynx
+patient,esophagus
+patient,stomach
+patient,oropharynx
+patient,esophagus
+patient,stomach
+patient,oropharynx
+patient,esophagus
+patient,stomach
+patient,oropharynx
+patient,esophagus
+patient,stomach
+pylorus,ampulla
+pylorus,ampulla
+stricture,ampulla
+stricture,ampulla
+stomach,endoscope
+stomach,biopsies
+stomach,endoscope
+stomach,biopsies
+stomach,endoscope
+stomach,biopsies
+patient,lidocaine
+patient,epinephrine
+patient,lidocaine
+patient,epinephrine
+patient,lidocaine
+patient,epinephrine
+fascia,tissue
+fascia,tissue
+umbilicus,wound
+umbilicus,wound
+correct.having,patient
+correct.having,patient
+esophagus,esophagitis
+esophagus,esophagitis
+duodenum,duodenal bulb
+duodenum,duodenal bulb
+duodenum,duodenal bulb
+patient,creatinine
+patient,potassium
+patient,albumin
+patient,bilirubin
+patient,creatinine
+patient,potassium
+patient,albumin
+patient,bilirubin
+patient,creatinine
+patient,potassium
+patient,albumin
+patient,bilirubin
+patient,creatinine
+patient,potassium
+patient,albumin
+patient,bilirubin
+patient,creatinine
+patient,potassium
+patient,albumin
+patient,bilirubin
+patient,abdomen
+patient,abdomen
+patient,abdomen
+hepatitis,patient
+hepatitis,patient
+bilirubin,albumin
+bilirubin,albumin
+abdomen,pelvis
+abdomen,stone
+abdomen,pelvis
+abdomen,stone
+abdomen,pelvis
+abdomen,stone
+abdomen,pelvis
+abdomen,stone
+abdomen,pelvis
+abdomen,stone
+abdomen,pelvis
+abdomen,stone
+abdomen,pelvis
+abdomen,stone
+abdomen,pelvis
+abdomen,stone
+abdomen,pelvis
+abdomen,stone
+abdomen,pelvis
+abdomen,stone
+abdomen,pelvis
+abdomen,stone
+abdomen,pelvis
+abdomen,stone
+pelvis,stone
+pelvis,bladder
+pelvis,stone
+pelvis,bladder
+pelvis,stone
+pelvis,bladder
+stool,colon
+stool,colon
+liver,spleen
+liver,adrenal glands
+liver,pancreas
+liver,spleen
+liver,adrenal glands
+liver,pancreas
+liver,spleen
+liver,adrenal glands
+liver,pancreas
+liver,spleen
+liver,adrenal glands
+liver,pancreas
+stone,bladder
+stone,bladder
+patient,stone
+patient,stone
+fascia,muscle
+fascia,muscle
+peritoneum,abdominal cavity
+peritoneum,abdominal cavity
+cecum,peritoneum
+cecum,peritoneum
+mesoappendix,cecum
+mesoappendix,cecum
+wound,peritoneum
+wound,peritoneum
+correct.having,patient
+correct.having,patient
+anus,sigmoid
+anus,colon
+anus,hepatic flexure
+anus,colon
+anus,cecum
+anus,sigmoid
+anus,colon
+anus,hepatic flexure
+anus,colon
+anus,cecum
+anus,sigmoid
+anus,colon
+anus,hepatic flexure
+anus,colon
+anus,cecum
+anus,sigmoid
+anus,colon
+anus,hepatic flexure
+anus,colon
+anus,cecum
+anus,sigmoid
+anus,colon
+anus,hepatic flexure
+anus,colon
+anus,cecum
+anus,sigmoid
+anus,colon
+anus,hepatic flexure
+anus,colon
+anus,cecum
+cecum,ileocecal valve
+cecum,ileocecal valve
+ileocecal valve,ileum
+ileocecal valve,ileum
+legs,hepatitis
+legs,alcohol
+legs,hepatitis
+legs,alcohol
+legs,hepatitis
+legs,alcohol
+extremities,edema
+extremities,edema
+female,colon cancer
+female,colon cancer
+stomach,diaphragm
+stomach,patient
+stomach,diaphragm
+stomach,patient
+stomach,diaphragm
+stomach,patient
+biopsy,patient
+biopsy,mouth
+biopsy,patient
+biopsy,mouth
+biopsy,patient
+biopsy,mouth
+anesthesia,endoscope
+anesthesia,stomach
+anesthesia,endoscope
+anesthesia,stomach
+anesthesia,endoscope
+anesthesia,stomach
+stomach,endoscope
+stomach,anterior abdominal wall
+stomach,endoscope
+stomach,anterior abdominal wall
+stomach,endoscope
+stomach,anterior abdominal wall
+endoscope,skin
+endoscope,abdominal wall
+endoscope,skin
+endoscope,abdominal wall
+endoscope,skin
+endoscope,abdominal wall
+abdominal wall,skin
+abdominal wall,skin
+abdominal wall,anterior
+abdominal wall,skin
+abdominal wall,skin
+abdominal wall,anterior
+abdominal wall,skin
+abdominal wall,skin
+abdominal wall,anterior
+abdominal wall,skin
+abdominal wall,skin
+abdominal wall,anterior
+anterior,stomach
+anterior,stomach
+stomach,anterior abdominal wall
+stomach,anterior abdominal wall
+fascia,skin
+fascia,skin
+marcaine,umbilicus
+marcaine,umbilicus
+needle,abdomen
+needle,abdomen
+anterior,subcostal
+anterior,subcostal
+anterior,subcostal
+anterior,subcostal
+omentum,colon
+omentum,small bowel
+omentum,colon
+omentum,small bowel
+omentum,colon
+omentum,small bowel
+gastric pouch,anesthesia
+gastric pouch,tube
+gastric pouch,anesthesia
+gastric pouch,tube
+gastric pouch,anesthesia
+gastric pouch,tube
+mouth,esophagus
+mouth,gastric pouch
+mouth,esophagus
+mouth,gastric pouch
+mouth,esophagus
+mouth,gastric pouch
+patient,iliac artery
+patient,iliac artery
+patient,abdomen
+patient,abdomen
+renal,iliac artery
+renal,iliac artery
+patient,gallbladder wall
+patient,gallbladder wall
+patient,abdomen
+patient,abdomen
+patient,abdomen
+stone,gallbladder
+stone,gallbladder
+stone,gallbladder
+stone,cystic duct
+stone,gallbladder
+stone,gallbladder
+stone,gallbladder
+stone,cystic duct
+stone,gallbladder
+stone,gallbladder
+stone,gallbladder
+stone,cystic duct
+stone,gallbladder
+stone,gallbladder
+stone,gallbladder
+stone,cystic duct
+stone,gallbladder
+stone,gallbladder
+stone,gallbladder
+stone,cystic duct
+subcutaneous tissues,skin
+subcutaneous tissues,skin
+patient,female
+patient,female
+skin,urine
+skin,blood
+skin,urine
+skin,blood
+skin,urine
+skin,blood
+potassium,creatinine
+potassium,creatinine
+lymphatic,patient
+lymphatic,patient
+abdominal,area
+abdominal,patient
+abdominal,area
+abdominal,patient
+abdominal,area
+abdominal,patient
+ileum,cecum
+ileum,colon
+ileum,cecum
+ileum,colon
+ileum,cecum
+ileum,colon
+jejunum,small bowel
+jejunum,small bowel
+abdomen,lymphatic
+abdomen,lymphatic
+bowel,mesentery
+bowel,mesentery
+mesentery,bowel
+mesentery,bowel
+patient,fat
+patient,fat
+bowel,area
+bowel,area
+small bowel,jejunum
+small bowel,colon
+small bowel,patient
+small bowel,jejunum
+small bowel,colon
+small bowel,patient
+small bowel,jejunum
+small bowel,colon
+small bowel,patient
+small bowel,jejunum
+small bowel,colon
+small bowel,patient
+skin,patient
+skin,patient
+blood,abdomen
+blood,abdomen
+esophageal,oropharynx
+esophageal,esophagus
+esophageal,stomach
+esophageal,duodenum
+esophageal,duodenum
+esophageal,oropharynx
+esophageal,esophagus
+esophageal,stomach
+esophageal,duodenum
+esophageal,duodenum
+esophageal,oropharynx
+esophageal,esophagus
+esophageal,stomach
+esophageal,duodenum
+esophageal,duodenum
+esophageal,oropharynx
+esophageal,esophagus
+esophageal,stomach
+esophageal,duodenum
+esophageal,duodenum
+esophageal,oropharynx
+esophageal,esophagus
+esophageal,stomach
+esophageal,duodenum
+esophageal,duodenum
+esophageal,oropharynx
+esophageal,esophagus
+esophageal,stomach
+esophageal,duodenum
+esophageal,duodenum
+esophageal,oropharynx
+esophageal,esophagus
+esophageal,stomach
+esophageal,duodenum
+esophageal,duodenum
+pylorus,duodenum
+pylorus,duodenum
+lumen,stricture
+lumen,stricture
+abdomen,betadine
+abdomen,betadine
+cecum,ileocecal valve
+cecum,pouch
+cecum,ileocecal valve
+cecum,pouch
+cecum,ileocecal valve
+cecum,pouch
+colonic mucosa,rectum
+colonic mucosa,rectum
+rectum,colon
+rectum,cecum
+rectum,ileocecal valve
+rectum,ileum
+rectum,colon
+rectum,cecum
+rectum,ileocecal valve
+rectum,ileum
+rectum,colon
+rectum,cecum
+rectum,ileocecal valve
+rectum,ileum
+rectum,colon
+rectum,cecum
+rectum,ileocecal valve
+rectum,ileum
+rectum,colon
+rectum,cecum
+rectum,ileocecal valve
+rectum,ileum
+mucosa,colon
+mucosa,ileum
+mucosa,colon
+mucosa,ileum
+mucosa,colon
+mucosa,ileum
+patient,chills
+patient,chills
+gallbladder,bowel
+gallbladder,patient
+gallbladder,bowel
+gallbladder,patient
+gallbladder,bowel
+gallbladder,patient
+needle,abdomen
+needle,abdomen
+saline,pelvis
+saline,pelvis
+blood,stools
+blood,stools
+abdomen,retroperitoneal
+abdomen,patient
+abdomen,retroperitoneal
+abdomen,liver
+abdomen,spleen
+abdomen,adrenal glands
+abdomen,pancreas
+abdomen,retroperitoneal
+abdomen,patient
+abdomen,retroperitoneal
+abdomen,liver
+abdomen,spleen
+abdomen,adrenal glands
+abdomen,pancreas
+abdomen,retroperitoneal
+abdomen,patient
+abdomen,retroperitoneal
+abdomen,liver
+abdomen,spleen
+abdomen,adrenal glands
+abdomen,pancreas
+abdomen,retroperitoneal
+abdomen,patient
+abdomen,retroperitoneal
+abdomen,liver
+abdomen,spleen
+abdomen,adrenal glands
+abdomen,pancreas
+abdomen,retroperitoneal
+abdomen,patient
+abdomen,retroperitoneal
+abdomen,liver
+abdomen,spleen
+abdomen,adrenal glands
+abdomen,pancreas
+abdomen,retroperitoneal
+abdomen,patient
+abdomen,retroperitoneal
+abdomen,liver
+abdomen,spleen
+abdomen,adrenal glands
+abdomen,pancreas
+abdomen,retroperitoneal
+abdomen,patient
+abdomen,retroperitoneal
+abdomen,liver
+abdomen,spleen
+abdomen,adrenal glands
+abdomen,pancreas
+abdomen,retroperitoneal
+abdomen,patient
+abdomen,retroperitoneal
+abdomen,liver
+abdomen,spleen
+abdomen,adrenal glands
+abdomen,pancreas
+abdomen,retroperitoneal
+abdomen,patient
+abdomen,retroperitoneal
+abdomen,liver
+abdomen,spleen
+abdomen,adrenal glands
+abdomen,pancreas
+kidneys,pelvis
+kidneys,bladder
+kidneys,bladder
+kidneys,pelvis
+kidneys,bladder
+kidneys,bladder
+kidneys,pelvis
+kidneys,bladder
+kidneys,bladder
+kidneys,pelvis
+kidneys,bladder
+kidneys,bladder
+abdomen,pelvis
+abdomen,liver
+abdomen,spleen
+abdomen,adrenal glands
+abdomen,pancreas
+abdomen,kidneys
+abdomen,pelvis
+abdomen,liver
+abdomen,spleen
+abdomen,adrenal glands
+abdomen,pancreas
+abdomen,kidneys
+abdomen,pelvis
+abdomen,liver
+abdomen,spleen
+abdomen,adrenal glands
+abdomen,pancreas
+abdomen,kidneys
+abdomen,pelvis
+abdomen,liver
+abdomen,spleen
+abdomen,adrenal glands
+abdomen,pancreas
+abdomen,kidneys
+abdomen,pelvis
+abdomen,liver
+abdomen,spleen
+abdomen,adrenal glands
+abdomen,pancreas
+abdomen,kidneys
+abdomen,pelvis
+abdomen,liver
+abdomen,spleen
+abdomen,adrenal glands
+abdomen,pancreas
+abdomen,kidneys
+abdomen,pelvis
+abdomen,liver
+abdomen,spleen
+abdomen,adrenal glands
+abdomen,pancreas
+abdomen,kidneys
+abdomen,pelvis
+abdomen,pelvis
+patient,female
+patient,female
+sigmoid,colon
+sigmoid,patient
+sigmoid,colon
+sigmoid,patient
+sigmoid,colon
+sigmoid,patient
+patient,abdominal wall
+patient,midline
+patient,abdominal wall
+patient,midline
+patient,abdominal wall
+patient,midline
+abdomen,small bowel
+abdomen,anterior abdominal wall
+abdomen,small bowel
+abdomen,anterior abdominal wall
+abdomen,small bowel
+abdomen,anterior abdominal wall
+small bowel,anterior abdominal wall
+small bowel,anterior abdominal wall
+small bowel,abdominal wall
+small bowel,anterior abdominal wall
+small bowel,anterior abdominal wall
+small bowel,abdominal wall
+small bowel,anterior abdominal wall
+small bowel,anterior abdominal wall
+small bowel,abdominal wall
+small bowel,anterior abdominal wall
+small bowel,anterior abdominal wall
+small bowel,abdominal wall
+bowel,abdominal cavity
+bowel,colon
+bowel,abdominal cavity
+bowel,colon
+bowel,abdominal cavity
+bowel,colon
+abdominal cavity,bladder
+abdominal cavity,bladder
+small bowel,bowel
+small bowel,bowel
+tissue,colon
+tissue,colon
+anus,rectum
+anus,rectum
+eea,rectum
+eea,rectum
+abdomen,pelvis
+abdomen,liver
+abdomen,spleen
+abdomen,pancreas
+abdomen,gallbladder
+abdomen,adrenal glands
+abdomen,kidney
+abdomen,pelvis
+abdomen,liver
+abdomen,spleen
+abdomen,pancreas
+abdomen,gallbladder
+abdomen,adrenal glands
+abdomen,kidney
+abdomen,pelvis
+abdomen,liver
+abdomen,spleen
+abdomen,pancreas
+abdomen,gallbladder
+abdomen,adrenal glands
+abdomen,kidney
+abdomen,pelvis
+abdomen,liver
+abdomen,spleen
+abdomen,pancreas
+abdomen,gallbladder
+abdomen,adrenal glands
+abdomen,kidney
+abdomen,pelvis
+abdomen,liver
+abdomen,spleen
+abdomen,pancreas
+abdomen,gallbladder
+abdomen,adrenal glands
+abdomen,kidney
+abdomen,pelvis
+abdomen,liver
+abdomen,spleen
+abdomen,pancreas
+abdomen,gallbladder
+abdomen,adrenal glands
+abdomen,kidney
+abdomen,pelvis
+abdomen,liver
+abdomen,spleen
+abdomen,pancreas
+abdomen,gallbladder
+abdomen,adrenal glands
+abdomen,kidney
+abdomen,pelvis
+abdomen,liver
+abdomen,spleen
+abdomen,pancreas
+abdomen,gallbladder
+abdomen,adrenal glands
+abdomen,kidney
+abdomen,pelvis
+abdomen,liver
+abdomen,spleen
+abdomen,pancreas
+abdomen,gallbladder
+abdomen,adrenal glands
+abdomen,kidney
+cecum,colon
+cecum,hepatic flexure
+cecum,rectum
+cecum,colon
+cecum,hepatic flexure
+cecum,rectum
+cecum,colon
+cecum,hepatic flexure
+cecum,rectum
+cecum,colon
+cecum,hepatic flexure
+cecum,rectum
+patient,umbilicus
+patient,fascia
+patient,umbilicus
+patient,fascia
+patient,umbilicus
+patient,fascia
+patient,umbilicus
+patient,fascia
+patient,umbilicus
+patient,fascia
+abdomen,omentum
+abdomen,omentum
+omentum,gallbladder
+omentum,subxiphoid
+omentum,gallbladder
+omentum,subxiphoid
+omentum,gallbladder
+omentum,subxiphoid
+omentum,gallbladder
+omentum,subxiphoid
+omentum,gallbladder
+omentum,subxiphoid
+muscles,fascia
+muscles,fascia
+omentum,gallbladder
+omentum,gallbladder
+gallbladder,liver bed
+gallbladder,liver bed
+skin,patient
+skin,anesthesia
+skin,patient
+skin,anesthesia
+skin,patient
+skin,anesthesia
+sigmoid,colon
+sigmoid,colon
+cecum,colon
+cecum,hepatic flexure
+cecum,colon
+cecum,hepatic flexure
+cecum,colon
+cecum,hepatic flexure
+sigmoid,colon
+sigmoid,colon
+polyps,rectum
+polyps,rectum
+anus,area
+anus,rectum
+anus,sigmoid colon
+anus,cecum
+anus,area
+anus,rectum
+anus,sigmoid colon
+anus,cecum
+anus,area
+anus,rectum
+anus,sigmoid colon
+anus,cecum
+anus,area
+anus,rectum
+anus,sigmoid colon
+anus,cecum
+anus,area
+anus,rectum
+anus,sigmoid colon
+anus,cecum
+cancer,tumor
+cancer,colon
+cancer,tumor
+cancer,colon
+cancer,tumor
+cancer,colon
+fascia,subcutaneous tissue
+fascia,subcutaneous tissue
+fascia,abdominal cavity
+fascia,abdominal cavity
+carbon dioxide,abdomen
+carbon dioxide,subcutaneous tissues
+carbon dioxide,abdominal wall
+carbon dioxide,trocar
+carbon dioxide,abdomen
+carbon dioxide,subcutaneous tissues
+carbon dioxide,abdominal wall
+carbon dioxide,trocar
+carbon dioxide,abdomen
+carbon dioxide,subcutaneous tissues
+carbon dioxide,abdominal wall
+carbon dioxide,trocar
+carbon dioxide,abdomen
+carbon dioxide,subcutaneous tissues
+carbon dioxide,abdominal wall
+carbon dioxide,trocar
+carbon dioxide,abdomen
+carbon dioxide,subcutaneous tissues
+carbon dioxide,abdominal wall
+carbon dioxide,trocar
+trocar,anterior
+trocar,anterior
+cystic duct,gallbladder
+cystic duct,gallbladder
+gallbladder,cystic duct
+gallbladder,cystic duct
+cystic artery,cystic duct
+cystic artery,cystic duct
+cystic duct,artery
+cystic duct,gallbladder
+cystic duct,liver bed
+cystic duct,artery
+cystic duct,gallbladder
+cystic duct,liver bed
+cystic duct,artery
+cystic duct,gallbladder
+cystic duct,liver bed
+cystic duct,artery
+cystic duct,gallbladder
+cystic duct,liver bed
+gallbladder,liver
+gallbladder,saline
+gallbladder,liver
+gallbladder,liver
+gallbladder,saline
+gallbladder,liver
+gallbladder,liver
+gallbladder,saline
+gallbladder,liver
+gallbladder,liver
+gallbladder,saline
+gallbladder,liver
+gallbladder,liver
+gallbladder,saline
+gallbladder,liver
+gallbladder,umbilical
+gallbladder,umbilical
+gallbladder,sheath
+gallbladder,abdomen
+gallbladder,sheath
+gallbladder,abdomen
+gallbladder,sheath
+gallbladder,abdomen
+gallbladder,carbon dioxide
+gallbladder,carbon dioxide
+gallbladder,carbon dioxide
+correct.having,patient
+correct.having,patient
+abdomen,pelvis
+abdomen,pelvis
+liver,pancreas
+liver,pancreas
+kidneys,stone
+kidneys,stone
+pancreas,biopsy
+pancreas,biopsy
+demerol,antrum
+demerol,patient
+demerol,female
+demerol,antrum
+demerol,patient
+demerol,female
+demerol,antrum
+demerol,patient
+demerol,female
+demerol,antrum
+demerol,patient
+demerol,female
+rectum,sigmoid
+rectum,colon
+rectum,colon
+rectum,cecum
+rectum,sigmoid
+rectum,colon
+rectum,colon
+rectum,cecum
+rectum,sigmoid
+rectum,colon
+rectum,colon
+rectum,cecum
+rectum,sigmoid
+rectum,colon
+rectum,colon
+rectum,cecum
+rectum,sigmoid
+rectum,colon
+rectum,colon
+rectum,cecum
+polyps,inflammation
+polyps,inflammation
+gastroscope,hypopharynx
+gastroscope,hypopharynx
+gastroscope,hypopharynx
+gastroscope,hypopharynx
+gastroscope,hypopharynx
+gastroscope,hypopharynx
+pylorus,anterior
+pylorus,anterior
+fundus,body
+fundus,inflammation
+fundus,body
+fundus,inflammation
+fundus,body
+fundus,inflammation
+abdomen,pelvis
+abdomen,pelvis
+esophagus,body
+esophagus,stomach
+esophagus,body
+esophagus,stomach
+esophagus,body
+esophagus,stomach
+pylorus,duodenum
+pylorus,duodenum
+duodenum,stricture
+duodenum,stricture
+patient,female
+patient,female
+patient,female
+patient,female
+patient,gallbladder
+patient,gallbladder
+patient,gallbladder
+patient,tube
+patient,tube
+tube,patient
+tube,patient
+patient,gallbladder
+patient,gallbladder
+patient,gallbladder
+cystic artery,cystic duct
+cystic artery,cystic duct
+cystic artery,gallbladder
+cystic artery,gallbladder
+gallbladder,liver bed
+gallbladder,liver bed
+skin,patient
+skin,patient
+colonic,fentanyl
+colonic,fentanyl
+anus,cecum
+anus,cecum
+sigmoid,colon
+sigmoid,colon
+polyp,sigmoid
+polyp,colon
+polyp,sigmoid
+polyp,colon
+polyp,sigmoid
+polyp,colon
+rectum,anal
+rectum,colon
+rectum,blood
+rectum,anal
+rectum,colon
+rectum,blood
+rectum,anal
+rectum,colon
+rectum,blood
+rectum,anal
+rectum,colon
+rectum,blood
+polyps,colon
+polyps,colon
+patient,fentanyl
+patient,fentanyl
+patient,fentanyl
+rectosigmoid,colon
+rectosigmoid,ileocecal valve
+rectosigmoid,colon
+rectosigmoid,ileocecal valve
+rectosigmoid,colon
+rectosigmoid,ileocecal valve
+colon,polyp
+colon,polyp
+patient,colon cancer
+patient,colon cancer
+patient,colon cancer
+colon cancer,cancer
+colon cancer,esophagus
+colon cancer,cancer
+colon cancer,esophagus
+colon cancer,cancer
+colon cancer,esophagus
+extremities,edema
+extremities,edema
+bowel,lesions
+bowel,lesions
+abdominal,female
+abdominal,female
+patient,abdomen
+patient,abdomen
+patient,abdomen
+patient,man
+patient,man
+patient,man
+patient,scar
+patient,skin
+patient,liver
+patient,man
+patient,man
+patient,scar
+patient,skin
+patient,liver
+patient,man
+patient,man
+patient,scar
+patient,skin
+patient,liver
+patient,man
+patient,man
+patient,scar
+patient,skin
+patient,liver
+patient,man
+patient,man
+patient,scar
+patient,skin
+patient,liver
+patient,man
+patient,man
+patient,scar
+patient,skin
+patient,liver
+patient,man
+patient,patients
+patient,patients
+patient,patients
+patient,patients
+tube,patients
+tube,patients
+pelvis,abdomen
+pelvis,abdomen
+pelvis,abdomen
+pelvis,abdomen
+pelvis,abdomen
+pelvis,abdomen
+pelvis,abdomen
+pelvis,abdomen
+abdomen,liver
+abdomen,liver
+pancreas,spleen
+pancreas,adrenal glands
+pancreas,kidneys
+pancreas,spleen
+pancreas,adrenal glands
+pancreas,kidneys
+pancreas,spleen
+pancreas,adrenal glands
+pancreas,kidneys
+pancreas,spleen
+pancreas,adrenal glands
+pancreas,kidneys
+bowel,sigmoid
+bowel,sigmoid
+urine,meals
+urine,meals
+female,blood
+female,blood
+urine,stool
+urine,patient
+urine,stool
+urine,patient
+urine,stool
+urine,patient
+abdomen,pelvis
+abdomen,pelvis
+patient,urine
+patient,urine
+patient,urine
+abdomen,umbilicus
+abdomen,umbilicus
+cystic duct,ampulla
+cystic duct,ampulla
+gallbladder,liver
+gallbladder,liver
+patient,female
+patient,hepatic flexure
+patient,female
+patient,hepatic flexure
+patient,female
+patient,hepatic flexure
+patient,biopsies
+patient,biopsies
+bowel,abdominal wall
+bowel,midline
+bowel,abdominal wall
+bowel,midline
+bowel,abdominal wall
+bowel,midline
+small bowel,hepatic flexure
+small bowel,tissues
+small bowel,hepatic flexure
+small bowel,tissues
+small bowel,hepatic flexure
+small bowel,tissues
+ileocecal valve,ileum
+ileocecal valve,ileum
+skin,patient
+skin,anesthesia
+skin,patient
+skin,anesthesia
+skin,patient
+skin,anesthesia
+skin,patient
+skin,anesthesia
+tube,tract
+tube,tract
+skin,subcutaneous tissue
+skin,subcutaneous tissue
+tract,stomach
+tract,stomach
+fascia,stomach
+fascia,stomach
+chest,abdomen
+chest,betadine
+chest,abdomen
+chest,betadine
+chest,abdomen
+chest,betadine
+xiphoid,abdomen
+xiphoid,abdomen
+abdominal wall,abdomen
+abdominal wall,abdomen
+aorta,renal artery
+aorta,renal artery
+graft,pelvis
+graft,pelvis
+fundus,stomach
+fundus,stomach
+patient,omentum
+patient,colon
+patient,liver
+patient,omentum
+patient,colon
+patient,liver
+patient,omentum
+patient,colon
+patient,liver
+patient,omentum
+patient,colon
+patient,liver
+omentum,colon
+omentum,gallbladder
+omentum,colon
+omentum,gallbladder
+omentum,colon
+omentum,gallbladder
+cystic duct,cystic artery
+cystic duct,cystic artery
+anterior,skin
+anterior,skin
+patient,demerol
+patient,demerol
+patient,demerol
+rectum,cecum
+rectum,ileum
+rectum,cecum
+rectum,ileum
+rectum,cecum
+rectum,ileum
+ileum,ileocecal valve
+ileum,cecum
+ileum,colon
+ileum,hepatic flexure
+ileum,rectosigmoid
+ileum,rectum
+ileum,ileocecal valve
+ileum,cecum
+ileum,colon
+ileum,hepatic flexure
+ileum,rectosigmoid
+ileum,rectum
+ileum,ileocecal valve
+ileum,cecum
+ileum,colon
+ileum,hepatic flexure
+ileum,rectosigmoid
+ileum,rectum
+ileum,ileocecal valve
+ileum,cecum
+ileum,colon
+ileum,hepatic flexure
+ileum,rectosigmoid
+ileum,rectum
+ileum,ileocecal valve
+ileum,cecum
+ileum,colon
+ileum,hepatic flexure
+ileum,rectosigmoid
+ileum,rectum
+ileum,ileocecal valve
+ileum,cecum
+ileum,colon
+ileum,hepatic flexure
+ileum,rectosigmoid
+ileum,rectum
+ileum,ileocecal valve
+ileum,cecum
+ileum,colon
+ileum,hepatic flexure
+ileum,rectosigmoid
+ileum,rectum
+patient,anesthesia
+patient,anesthesia
+cystic duct,cystic artery
+cystic duct,cystic artery
+cystic duct,cystic artery
+cystic duct,gallbladder
+cystic duct,liver
+cystic duct,cystic artery
+cystic duct,gallbladder
+cystic duct,liver
+cystic duct,cystic artery
+cystic duct,gallbladder
+cystic duct,liver
+cystic duct,cystic artery
+cystic duct,gallbladder
+cystic duct,liver
+esophagus,stomach
+esophagus,anterior
+esophagus,body
+esophagus,antrum
+esophagus,pylorus
+esophagus,duodenal bulb
+esophagus,duodenum
+esophagus,stomach
+esophagus,anterior
+esophagus,body
+esophagus,antrum
+esophagus,pylorus
+esophagus,duodenal bulb
+esophagus,duodenum
+esophagus,stomach
+esophagus,anterior
+esophagus,body
+esophagus,antrum
+esophagus,pylorus
+esophagus,duodenal bulb
+esophagus,duodenum
+esophagus,stomach
+esophagus,anterior
+esophagus,body
+esophagus,antrum
+esophagus,pylorus
+esophagus,duodenal bulb
+esophagus,duodenum
+esophagus,stomach
+esophagus,anterior
+esophagus,body
+esophagus,antrum
+esophagus,pylorus
+esophagus,duodenal bulb
+esophagus,duodenum
+esophagus,stomach
+esophagus,anterior
+esophagus,body
+esophagus,antrum
+esophagus,pylorus
+esophagus,duodenal bulb
+esophagus,duodenum
+esophagus,stomach
+esophagus,anterior
+esophagus,body
+esophagus,antrum
+esophagus,pylorus
+esophagus,duodenal bulb
+esophagus,duodenum
+esophagus,stomach
+esophagus,anterior
+esophagus,body
+esophagus,antrum
+esophagus,pylorus
+esophagus,duodenal bulb
+esophagus,duodenum
+antrum,biopsies
+antrum,biopsies
+endoscope,anus
+endoscope,colonic
+endoscope,mucosa
+endoscope,anus
+endoscope,colonic
+endoscope,mucosa
+endoscope,anus
+endoscope,colonic
+endoscope,mucosa
+endoscope,anus
+endoscope,colonic
+endoscope,mucosa
+edema,patient
+edema,patient
+liver,abdomen
+liver,omentum
+liver,gallbladder
+liver,abdomen
+liver,omentum
+liver,gallbladder
+liver,abdomen
+liver,omentum
+liver,gallbladder
+liver,abdomen
+liver,omentum
+liver,gallbladder
+abdomen,female
+abdomen,female
+abdomen,betadine
+abdomen,betadine
+abdomen,gallbladder
+abdomen,gallbladder
+trocar,abdomen
+trocar,abdomen
+trocar,abdomen
+gallbladder,fundus
+gallbladder,fundus
+gallbladder,anteriorly
+gallbladder,anteriorly
+cystic duct,cystic artery
+cystic duct,cystic artery
+cystic duct,cystic artery
+cystic duct,cystic artery
+cystic duct,cystic artery
+cystic duct,gallbladder
+cystic duct,cystic artery
+cystic duct,gallbladder
+cystic duct,cystic artery
+cystic duct,gallbladder
+cystic duct,cystic artery
+cystic duct,cystic artery
+gallbladder,liver bed
+gallbladder,liver bed
+gallbladder,abdomen
+gallbladder,abdomen
+gallbladder,liver bed
+gallbladder,subxiphoid
+gallbladder,liver bed
+gallbladder,subxiphoid
+gallbladder,liver bed
+gallbladder,subxiphoid
+gallbladder,liver bed
+gallbladder,subxiphoid
+female,patient
+female,stool
+female,patient
+female,stool
+female,patient
+female,stool
+midline,umbilicus
+midline,umbilicus
+fascia,peritoneum
+fascia,caudad
+fascia,peritoneum
+fascia,small bowel
+fascia,anterior abdominal wall
+fascia,peritoneum
+fascia,caudad
+fascia,peritoneum
+fascia,small bowel
+fascia,anterior abdominal wall
+fascia,peritoneum
+fascia,caudad
+fascia,peritoneum
+fascia,small bowel
+fascia,anterior abdominal wall
+fascia,peritoneum
+fascia,caudad
+fascia,peritoneum
+fascia,small bowel
+fascia,anterior abdominal wall
+fascia,peritoneum
+fascia,caudad
+fascia,peritoneum
+fascia,small bowel
+fascia,anterior abdominal wall
+fascia,peritoneum
+fascia,caudad
+fascia,peritoneum
+fascia,small bowel
+fascia,anterior abdominal wall
+area,inflammation
+area,inflammation
+small bowel,bladder
+small bowel,uterus
+small bowel,bladder
+small bowel,uterus
+small bowel,bladder
+small bowel,uterus
+sigmoid,colon
+sigmoid,rectum
+sigmoid,colon
+sigmoid,rectum
+sigmoid,colon
+sigmoid,rectum
+sigmoid,colon
+sigmoid,rectum
+abdominal cavity,bladder
+abdominal cavity,bladder
+sigmoid,colon
+sigmoid,mesentery
+sigmoid,rectosigmoid
+sigmoid,colon
+sigmoid,mesentery
+sigmoid,rectosigmoid
+sigmoid,colon
+sigmoid,mesentery
+sigmoid,rectosigmoid
+sigmoid,colon
+sigmoid,mesentery
+sigmoid,rectosigmoid
+anus,rectum
+anus,rectum
+area,uterine
+area,patient
+area,uterine
+area,patient
+area,uterine
+area,patient
+bladder,colon
+bladder,colon
+pelvis,area
+pelvis,area
+muscle,skin
+muscle,skin
+abdomen,caudad
+abdomen,caudad
+abdomen,caudad
+abdomen,caudad
+abdomen,caudad
+abdomen,caudad
+demerol,patient
+demerol,patient
+mouth,esophagus
+mouth,esophagus
+gastroscope,mouth
+gastroscope,esophagus
+gastroscope,esophagus
+gastroscope,stomach
+gastroscope,pylorus
+gastroscope,mouth
+gastroscope,esophagus
+gastroscope,esophagus
+gastroscope,stomach
+gastroscope,pylorus
+gastroscope,mouth
+gastroscope,esophagus
+gastroscope,esophagus
+gastroscope,stomach
+gastroscope,pylorus
+gastroscope,mouth
+gastroscope,esophagus
+gastroscope,esophagus
+gastroscope,stomach
+gastroscope,pylorus
+gastroscope,mouth
+gastroscope,esophagus
+gastroscope,esophagus
+gastroscope,stomach
+gastroscope,pylorus
+gastroscope,mouth
+gastroscope,esophagus
+gastroscope,esophagus
+gastroscope,stomach
+gastroscope,pylorus
+antrum,biopsy
+antrum,biopsy
+oropharynx,esophagus
+oropharynx,stomach
+oropharynx,esophagus
+oropharynx,stomach
+oropharynx,esophagus
+oropharynx,stomach
+hypopharynx,inflammation
+hypopharynx,inflammation
+esophagus,inflammation
+esophagus,inflammation
+gastric pouch,mucosa
+gastric pouch,mucosa
+demerol,oropharynx
+demerol,oropharynx
+oropharynx,esophagus
+oropharynx,esophagus
+abdomen,pelvis
+abdomen,pelvis
+abdomen,pelvis
+abdomen,pelvis
+abdomen,pelvis
+abdomen,pelvis
+abdomen,pelvis
+abdomen,pelvis
+liver,gallbladder
+liver,pancreas
+liver,spleen
+liver,adrenal glands
+liver,kidneys
+liver,gallbladder
+liver,pancreas
+liver,spleen
+liver,adrenal glands
+liver,kidneys
+liver,gallbladder
+liver,pancreas
+liver,spleen
+liver,adrenal glands
+liver,kidneys
+liver,gallbladder
+liver,pancreas
+liver,spleen
+liver,adrenal glands
+liver,kidneys
+liver,gallbladder
+liver,pancreas
+liver,spleen
+liver,adrenal glands
+liver,kidneys
+liver,gallbladder
+liver,pancreas
+liver,spleen
+liver,adrenal glands
+liver,kidneys
+lymphadenopathy,abdomen
+lymphadenopathy,pelvis
+lymphadenopathy,abdomen
+lymphadenopathy,pelvis
+lymphadenopathy,abdomen
+lymphadenopathy,pelvis
+anus,cecum
+anus,ileocecal valve
+anus,cecum
+anus,ileocecal valve
+anus,cecum
+anus,ileocecal valve
+biopsies,cecum
+biopsies,cecum
+area,inflammation
+area,inflammation
+sigmoid,inflammation
+sigmoid,colon
+sigmoid,rectum
+sigmoid,colon
+sigmoid,inflammation
+sigmoid,colon
+sigmoid,rectum
+sigmoid,colon
+sigmoid,inflammation
+sigmoid,colon
+sigmoid,rectum
+sigmoid,colon
+sigmoid,inflammation
+sigmoid,colon
+sigmoid,rectum
+sigmoid,colon
+sigmoid,inflammation
+sigmoid,colon
+sigmoid,rectum
+sigmoid,colon
+sigmoid,inflammation
+sigmoid,colon
+sigmoid,rectum
+sigmoid,colon
+patient,polyps
+patient,polyps
+abdomen,patient
+abdomen,colon
+abdomen,patient
+abdomen,colon
+abdomen,patient
+abdomen,colon
+stomach,esophagus
+stomach,abdomen
+stomach,esophagus
+stomach,abdomen
+stomach,esophagus
+stomach,abdomen
+stomach,chest
+stomach,patient
+stomach,chest
+stomach,patient
+stomach,chest
+stomach,patient
+subcutaneous tissue,skin
+subcutaneous tissue,skin
+biopsy,polyps
+biopsy,polyps
+abdomen,alcohol
+abdomen,betadine
+abdomen,alcohol
+abdomen,betadine
+abdomen,alcohol
+abdomen,betadine
+esophagus,stomach
+esophagus,duodenum
+esophagus,stomach
+esophagus,duodenum
+esophagus,stomach
+esophagus,duodenum
+polyps,antrum
+polyps,antrum
+anterior abdominal wall,stomach
+anterior abdominal wall,gastroscope
+anterior abdominal wall,mouth
+anterior abdominal wall,stomach
+anterior abdominal wall,gastroscope
+anterior abdominal wall,mouth
+anterior abdominal wall,stomach
+anterior abdominal wall,gastroscope
+anterior abdominal wall,mouth
+anterior abdominal wall,stomach
+anterior abdominal wall,gastroscope
+anterior abdominal wall,mouth
+anus,hepatic flexure
+anus,hepatic flexure
+patient,anesthesia
+patient,anesthesia
+biopsies,ileum
+biopsies,ileum
+patient,biopsies
+patient,biopsies
+abdomen,pelvis
+abdomen,liver
+abdomen,spleen
+abdomen,pancreas
+abdomen,adrenal glands
+abdomen,kidneys
+abdomen,pelvis
+abdomen,liver
+abdomen,spleen
+abdomen,pancreas
+abdomen,adrenal glands
+abdomen,kidneys
+abdomen,pelvis
+abdomen,liver
+abdomen,spleen
+abdomen,pancreas
+abdomen,adrenal glands
+abdomen,kidneys
+abdomen,pelvis
+abdomen,liver
+abdomen,spleen
+abdomen,pancreas
+abdomen,adrenal glands
+abdomen,kidneys
+abdomen,pelvis
+abdomen,liver
+abdomen,spleen
+abdomen,pancreas
+abdomen,adrenal glands
+abdomen,kidneys
+abdomen,pelvis
+abdomen,liver
+abdomen,spleen
+abdomen,pancreas
+abdomen,adrenal glands
+abdomen,kidneys
+abdomen,pelvis
+abdomen,liver
+abdomen,spleen
+abdomen,pancreas
+abdomen,adrenal glands
+abdomen,kidneys
+abdomen,pelvis
+abdomen,liver
+abdomen,spleen
+abdomen,pancreas
+abdomen,adrenal glands
+abdomen,kidneys
+abdomen,pelvis
+abdomen,liver
+abdomen,spleen
+abdomen,pancreas
+abdomen,adrenal glands
+abdomen,kidneys
+female,esophagus
+female,esophagus
+chest,patient
+chest,patient
+metoprolol,patient
+metoprolol,patient
+skin,lesions
+skin,lesions
+potassium,creatinine
+potassium,albumin
+potassium,bilirubin
+potassium,creatinine
+potassium,albumin
+potassium,bilirubin
+potassium,creatinine
+potassium,albumin
+potassium,bilirubin
+potassium,creatinine
+potassium,albumin
+potassium,bilirubin
+urine,glucose
+urine,blood
+urine,glucose
+urine,blood
+urine,glucose
+urine,blood
+oral,esophagus
+oral,lumen
+oral,esophagus
+oral,esophagus
+oral,lumen
+oral,esophagus
+oral,esophagus
+oral,lumen
+oral,esophagus
+oral,esophagus
+oral,lumen
+oral,esophagus
+lungs,stomach
+lungs,stomach
+abdomen,chest
+abdomen,chest
+xiphoid,umbilicus
+xiphoid,umbilicus
+omentum,stomach
+omentum,stomach
+esophagus,abdomen
+esophagus,abdomen
+jejunum,abdominal wall
+jejunum,abdominal wall
+skin,abdomen
+skin,abdomen
+peritoneum,esophagus
+peritoneum,esophagus
+esophagus,stomach
+esophagus,stomach
+oropharynx,endoscope
+oropharynx,endoscope
+patient,esophageal sphincter
+patient,esophageal sphincter
+endoscope,stomach
+endoscope,pylorus
+endoscope,duodenum
+endoscope,stomach
+endoscope,pylorus
+endoscope,duodenum
+endoscope,stomach
+endoscope,pylorus
+endoscope,duodenum
+endoscope,stomach
+endoscope,pylorus
+endoscope,duodenum
+patient,ulcers
+patient,duodenum
+patient,ulcers
+patient,duodenum
+patient,ulcers
+patient,duodenum
+endoscope,duodenum
+endoscope,biopsy
+endoscope,biopsies
+endoscope,duodenum
+endoscope,biopsy
+endoscope,biopsies
+endoscope,duodenum
+endoscope,biopsy
+endoscope,biopsies
+endoscope,duodenum
+endoscope,biopsy
+endoscope,biopsies
+endoscope,duodenum
+endoscope,biopsy
+endoscope,biopsies
+endoscope,antrum
+endoscope,biopsies
+endoscope,biopsy
+endoscope,antrum
+endoscope,biopsies
+endoscope,biopsy
+endoscope,antrum
+endoscope,biopsies
+endoscope,biopsy
+endoscope,antrum
+endoscope,biopsies
+endoscope,biopsy
+body,stomach
+body,patient
+body,esophageal sphincter
+body,stomach
+body,patient
+body,esophageal sphincter
+body,stomach
+body,patient
+body,esophageal sphincter
+body,stomach
+body,patient
+body,esophageal sphincter
+endoscope,esophagus
+endoscope,biopsies
+endoscope,esophagus
+endoscope,biopsies
+endoscope,esophagus
+endoscope,biopsies
+stomach,endoscope
+stomach,mouth
+stomach,endoscope
+stomach,mouth
+stomach,endoscope
+stomach,mouth
+patient,colon cancer
+patient,colon cancer
+gentleman,colon cancer
+gentleman,colon cancer
+oropharynx,esophagus
+oropharynx,stomach
+oropharynx,duodenum
+oropharynx,esophagus
+oropharynx,stomach
+oropharynx,duodenum
+oropharynx,esophagus
+oropharynx,stomach
+oropharynx,duodenum
+oropharynx,esophagus
+oropharynx,stomach
+oropharynx,duodenum
+biopsies,antrum
+biopsies,antrum
+cardia,fundus
+cardia,lesions
+cardia,fundus
+cardia,lesions
+cardia,fundus
+cardia,lesions
+mucosa,duodenum
+mucosa,duodenum
+polyps,gastric
+polyps,gastric
+patient,endoscope
+patient,hypopharynx
+patient,endoscope
+patient,hypopharynx
+patient,endoscope
+patient,hypopharynx
+endoscope,stomach
+endoscope,stomach
+endoscope,duodenum
+endoscope,duodenum
+biopsies,duodenum
+biopsies,antrum
+biopsies,esophagus
+biopsies,duodenum
+biopsies,antrum
+biopsies,esophagus
+biopsies,duodenum
+biopsies,antrum
+biopsies,esophagus
+biopsies,duodenum
+biopsies,antrum
+biopsies,esophagus
+patient,stomach
+patient,stomach
+patient,gastritis
+patient,gastritis
+patient,gastritis
+biopsies,patient
+biopsies,patient
+heart,lungs
+heart,lungs
+patient,hypopharynx
+patient,hypopharynx
+patient,bowel
+patient,bowel
+mouth,duodenum
+mouth,duodenum
+mucosa,body
+mucosa,fundus
+mucosa,stomach
+mucosa,body
+mucosa,fundus
+mucosa,stomach
+mucosa,body
+mucosa,fundus
+mucosa,stomach
+mucosa,body
+mucosa,fundus
+mucosa,stomach
+abdomen,pelvis
+abdomen,pelvis
+female,patient
+female,patient
+g-tube,hemoglobin
+g-tube,hemoglobin
+potassium,albumin
+potassium,albumin
+hemoglobin,platelets
+hemoglobin,platelets
+female,patient
+female,blood
+female,patient
+female,blood
+female,patient
+female,blood
+demerol,patient
+demerol,colon polyps
+demerol,patient
+demerol,colon polyps
+demerol,patient
+demerol,colon polyps
+rectum,colon
+rectum,cecum
+rectum,colon
+rectum,cecum
+rectum,colon
+rectum,cecum
+sigmoid,colon
+sigmoid,colon
+sigmoid,colon
+sigmoid,colon
+sigmoid,colon
+sigmoid,colon
+cecum,rectum
+cecum,rectum
+patient,colonic
+patient,cecum
+patient,colonic
+patient,cecum
+patient,colonic
+patient,cecum
+endoscope,rectum
+endoscope,rectum
+colon,cecum
+colon,cecum
+tumor,polyp
+tumor,inflammation
+tumor,polyp
+tumor,inflammation
+tumor,polyp
+tumor,inflammation
+patient,gentleman
+patient,gentleman
+patient,abdomen
+patient,betadine
+patient,abdomen
+patient,betadine
+patient,abdomen
+patient,betadine
+patient,abdomen
+patient,betadine
+fascia,midline
+fascia,midline
+fascia,peritoneum
+fascia,peritoneum
+patient,midline
+patient,anterior
+patient,midline
+patient,anterior
+patient,midline
+patient,anterior
+mesoappendix,cecum
+mesoappendix,cecum
+mesoappendix,cecum
+mesoappendix,cecum
+mesoappendix,cecum
+mesoappendix,cecum
+mesentery,cecum
+mesentery,cecum
+patient,female
+patient,female
+patient,female
+bladder,hemoglobin
+bladder,hemoglobin
+creatinine,female
+creatinine,female
+abdomen,pelvis
+abdomen,patient
+abdomen,mouth
+abdomen,pelvis
+abdomen,patient
+abdomen,mouth
+abdomen,pelvis
+abdomen,patient
+abdomen,mouth
+abdomen,pelvis
+abdomen,patient
+abdomen,mouth
+patient,mouth
+patient,mouth
+coumadin,patient
+coumadin,patient
+patient,esophagus
+patient,esophagus
+fascia,subcutaneous tissue
+fascia,subcutaneous tissue
+fascia,abdominal cavity
+fascia,abdominal cavity
+carbon dioxide,abdomen
+carbon dioxide,subcutaneous tissues
+carbon dioxide,abdominal wall
+carbon dioxide,trocar
+carbon dioxide,abdomen
+carbon dioxide,subcutaneous tissues
+carbon dioxide,abdominal wall
+carbon dioxide,trocar
+carbon dioxide,abdomen
+carbon dioxide,subcutaneous tissues
+carbon dioxide,abdominal wall
+carbon dioxide,trocar
+carbon dioxide,abdomen
+carbon dioxide,subcutaneous tissues
+carbon dioxide,abdominal wall
+carbon dioxide,trocar
+carbon dioxide,abdomen
+carbon dioxide,subcutaneous tissues
+carbon dioxide,abdominal wall
+carbon dioxide,trocar
+cystic artery,cystic duct
+cystic artery,cystic duct
+midline,gallbladder
+midline,liver
+midline,gallbladder
+midline,liver
+midline,gallbladder
+midline,liver
+gallbladder,umbilical
+gallbladder,umbilical
+gallbladder,sheath
+gallbladder,abdomen
+gallbladder,sheath
+gallbladder,abdomen
+gallbladder,sheath
+gallbladder,abdomen
+gallbladder,abdomen
+gallbladder,abdomen
+correct.having,patient
+correct.having,patient
+female,patient
+female,patient
+gallbladder wall,stone
+gallbladder wall,stone
+gallbladder wall,stone
+urine,creatinine
+urine,potassium
+urine,creatinine
+urine,potassium
+urine,creatinine
+urine,potassium
+patient,female
+patient,female
+esophageal sphincter,patient
+esophageal sphincter,patient
+patient,oral
+patient,area
+patient,oral
+patient,area
+patient,oral
+patient,area
+patient,oral
+patient,area
+trocar,midline
+trocar,midline
+trocar,midline
+kidney,tumor
+kidney,tumor
+kidney,tumor
+patient,female
+patient,colon polyps
+patient,female
+patient,colon polyps
+patient,female
+patient,colon polyps
+stool,blood
+stool,blood
+stool,blood
+female,colon polyps
+female,colon polyps
+area,marcaine
+area,marcaine
+patient,needle
+patient,needle
+body,antrum
+body,stomach
+body,antrum
+body,stomach
+body,antrum
+body,stomach
+stomach,body
+stomach,body
+stomach,body
+patient,g-tube
+patient,g-tube
+passy-muir,tissues
+passy-muir,tissues
+patient,muscles
+patient,muscles
+patient,anterior
+patient,anterior
+patient,oral
+patient,oral
+esophageal,patient
+esophageal,patient
+patient,mouth
+patient,mouth
+patient,esophagus
+patient,esophagus
+mouth,patient
+mouth,patient
+esophagus,lumen
+esophagus,lumen
+extremities,chest
+extremities,chest
+extremities,edema
+extremities,edema
+biopsies,ileum
+biopsies,cecum
+biopsies,hepatic flexure
+biopsies,sigmoid
+biopsies,colon
+biopsies,ileum
+biopsies,cecum
+biopsies,hepatic flexure
+biopsies,sigmoid
+biopsies,colon
+biopsies,ileum
+biopsies,cecum
+biopsies,hepatic flexure
+biopsies,sigmoid
+biopsies,colon
+biopsies,ileum
+biopsies,cecum
+biopsies,hepatic flexure
+biopsies,sigmoid
+biopsies,colon
+biopsies,ileum
+biopsies,cecum
+biopsies,hepatic flexure
+biopsies,sigmoid
+biopsies,colon
+biopsies,ileum
+biopsies,cecum
+biopsies,hepatic flexure
+biopsies,sigmoid
+biopsies,colon
+patient,female
+patient,female
+anus,ileum
+anus,ileum
+inflammation,ileum
+inflammation,ileum
+cecum,biopsies
+cecum,biopsies
+stool,colonic mucosa
+stool,colonic mucosa
+area,inflammation
+area,hepatic flexure
+area,inflammation
+area,hepatic flexure
+area,inflammation
+area,hepatic flexure
+area,inflammation
+area,sigmoid
+area,colon
+area,inflammation
+area,sigmoid
+area,colon
+area,inflammation
+area,sigmoid
+area,colon
+area,inflammation
+area,sigmoid
+area,colon
+biopsies,sigmoid
+biopsies,colon
+biopsies,area
+biopsies,sigmoid
+biopsies,colon
+biopsies,area
+biopsies,sigmoid
+biopsies,colon
+biopsies,area
+biopsies,sigmoid
+biopsies,colon
+biopsies,area
+biopsies,ileum
+biopsies,cecum
+biopsies,hepatic flexure
+biopsies,sigmoid
+biopsies,colon
+biopsies,ileum
+biopsies,cecum
+biopsies,hepatic flexure
+biopsies,sigmoid
+biopsies,colon
+biopsies,ileum
+biopsies,cecum
+biopsies,hepatic flexure
+biopsies,sigmoid
+biopsies,colon
+biopsies,ileum
+biopsies,cecum
+biopsies,hepatic flexure
+biopsies,sigmoid
+biopsies,colon
+biopsies,ileum
+biopsies,cecum
+biopsies,hepatic flexure
+biopsies,sigmoid
+biopsies,colon
+biopsies,ileum
+biopsies,cecum
+biopsies,hepatic flexure
+biopsies,sigmoid
+biopsies,colon
+biopsies,polyps
+biopsies,polyps
+epinephrine,patient
+epinephrine,patient
+epinephrine,patient
+epinephrine,patient
+epinephrine,patient
+epinephrine,patient
+colon,cecum
+colon,cecum
+hepatic flexure,biopsy
+hepatic flexure,epinephrine
+hepatic flexure,biopsy
+hepatic flexure,epinephrine
+hepatic flexure,biopsy
+hepatic flexure,epinephrine
+polyp,epinephrine
+polyp,epinephrine
+colon,area
+colon,area
+demerol,esophageal
+demerol,patient
+demerol,female
+demerol,female
+demerol,esophageal
+demerol,patient
+demerol,female
+demerol,female
+demerol,esophageal
+demerol,patient
+demerol,female
+demerol,female
+demerol,esophageal
+demerol,patient
+demerol,female
+demerol,female
+demerol,esophageal
+demerol,patient
+demerol,female
+demerol,female
+gastroscope,hypopharynx
+gastroscope,esophagus
+gastroscope,hypopharynx
+gastroscope,esophagus
+gastroscope,hypopharynx
+gastroscope,esophagus
+duodenal bulb,inflammation
+duodenal bulb,inflammation
+fundus,body
+fundus,body
+tissues,esophagus
+tissues,area
+tissues,esophagus
+tissues,esophagus
+tissues,area
+tissues,esophagus
+tissues,esophagus
+tissues,area
+tissues,esophagus
+tissues,esophagus
+tissues,area
+tissues,esophagus
+tissue,area
+tissue,area
+wound,skin
+wound,skin
+wound,patient
+wound,skin
+wound,skin
+wound,patient
+wound,skin
+wound,skin
+wound,patient
+wound,skin
+wound,skin
+wound,patient
+needle,abdomen
+needle,abdomen
+stomach,anterior abdominal wall
+stomach,anterior abdominal wall
+skin,tube
+skin,tube
+patient,hemoglobin
+patient,hemoglobin
+hemoglobin,platelets
+hemoglobin,platelets
+potassium,creatinine
+potassium,creatinine
+hemoglobin,patient
+hemoglobin,patient
+stone,patient
+stone,female
+stone,bilirubin
+stone,patient
+stone,female
+stone,bilirubin
+stone,patient
+stone,female
+stone,bilirubin
+stone,patient
+stone,female
+stone,bilirubin
+stone,patient
+stone,female
+stone,bilirubin
+bilirubin,gallstones
+bilirubin,gallstones
+duodenum,stone
+duodenum,stone
+patient,stone
+patient,stone
+patient,stone
+patient,stone
+patient,stone
+patient,stone
+esophagus,edema
+esophagus,inflammation
+esophagus,stricture
+esophagus,fentanyl
+esophagus,endoscope
+esophagus,lesions
+esophagus,edema
+esophagus,inflammation
+esophagus,stricture
+esophagus,fentanyl
+esophagus,endoscope
+esophagus,lesions
+esophagus,edema
+esophagus,inflammation
+esophagus,stricture
+esophagus,fentanyl
+esophagus,endoscope
+esophagus,lesions
+esophagus,edema
+esophagus,inflammation
+esophagus,stricture
+esophagus,fentanyl
+esophagus,endoscope
+esophagus,lesions
+esophagus,edema
+esophagus,inflammation
+esophagus,stricture
+esophagus,fentanyl
+esophagus,endoscope
+esophagus,lesions
+esophagus,edema
+esophagus,inflammation
+esophagus,stricture
+esophagus,fentanyl
+esophagus,endoscope
+esophagus,lesions
+esophagus,edema
+esophagus,inflammation
+esophagus,stricture
+esophagus,fentanyl
+esophagus,endoscope
+esophagus,lesions
+esophagus,edema
+esophagus,inflammation
+esophagus,stricture
+esophagus,fentanyl
+esophagus,endoscope
+esophagus,lesions
+esophagus,edema
+esophagus,inflammation
+esophagus,stricture
+esophagus,fentanyl
+esophagus,endoscope
+esophagus,lesions
+biopsies,esophagus
+biopsies,esophagus
+antrum,stomach
+antrum,lesions
+antrum,stomach
+antrum,lesions
+antrum,stomach
+antrum,lesions
+endoscope,body
+endoscope,stomach
+endoscope,body
+endoscope,stomach
+endoscope,body
+endoscope,stomach
+ulcer,tumor
+ulcer,polyp
+ulcer,tumor
+ulcer,polyp
+ulcer,tumor
+ulcer,polyp
+pylorus,duodenum
+pylorus,duodenum
+biopsies,esophagus
+biopsies,esophagus
+abdomen,liver
+abdomen,liver
+gallbladder,gallstones
+gallbladder,gallstones
+gallbladder,gallstones
+gallbladder,gallstones
+patient,mouth
+patient,mouth
+endoscope,mouth
+endoscope,esophagus
+endoscope,esophagus
+endoscope,stomach
+endoscope,mouth
+endoscope,esophagus
+endoscope,esophagus
+endoscope,stomach
+endoscope,mouth
+endoscope,esophagus
+endoscope,esophagus
+endoscope,stomach
+endoscope,mouth
+endoscope,esophagus
+endoscope,esophagus
+endoscope,stomach
+endoscope,mouth
+endoscope,esophagus
+endoscope,esophagus
+endoscope,stomach
+antrum,gastritis
+antrum,gastritis
+duodenum,polyp
+duodenum,polyp
+biopsies,antrum
+biopsies,antrum
+patient,ulcer
+patient,ulcer
+stomach,antrum
+stomach,antrum
+stomach,antrum
+cardia,stomach
+cardia,stomach
+duodenal bulb,patient
+duodenal bulb,patient
+hypopharynx,esophagus
+hypopharynx,esophagus
+esophagus,stomach
+esophagus,stomach
+esophagus,pylorus
+esophagus,duodenal bulb
+esophagus,stomach
+esophagus,stomach
+esophagus,pylorus
+esophagus,duodenal bulb
+esophagus,stomach
+esophagus,stomach
+esophagus,pylorus
+esophagus,duodenal bulb
+esophagus,stomach
+esophagus,stomach
+esophagus,pylorus
+esophagus,duodenal bulb
+esophagus,stomach
+esophagus,stomach
+esophagus,pylorus
+esophagus,duodenal bulb
+biopsies,antrum
+biopsies,stomach
+biopsies,antrum
+biopsies,stomach
+biopsies,antrum
+biopsies,stomach
+stomach,lumen
+stomach,biopsies
+stomach,lumen
+stomach,biopsies
+stomach,lumen
+stomach,biopsies
+patient,female
+patient,female
+heart,lungs
+heart,cardiac
+heart,lungs
+heart,cardiac
+heart,lungs
+heart,cardiac
+ulcers,cancer
+ulcers,cancer
+abdomen,pelvis
+abdomen,pelvis
+abdomen,pelvis
+abdomen,pelvis
+abdomen,pelvis
+abdomen,pelvis
+abdomen,pelvis
+abdomen,pelvis
+pelvis,uterus
+pelvis,uterus
+sigmoid,colon
+sigmoid,colon
+kidneys,liver
+kidneys,gallbladder
+kidneys,pancreas
+kidneys,liver
+kidneys,gallbladder
+kidneys,pancreas
+kidneys,liver
+kidneys,gallbladder
+kidneys,pancreas
+kidneys,liver
+kidneys,gallbladder
+kidneys,pancreas
+female,colon cancer
+female,colon cancer
+colon cancer,endoscope
+colon cancer,rectum
+colon cancer,endoscope
+colon cancer,rectum
+colon cancer,endoscope
+colon cancer,rectum
+colon,cecum
+colon,cecum
+tumor,polyp
+tumor,inflammation
+tumor,polyp
+tumor,inflammation
+tumor,polyp
+tumor,inflammation
+colonic mucosa,cecum
+colonic mucosa,cecum
+tumor,polyp
+tumor,polyp
+blood,stool
+blood,stool
+patient,female
+patient,female
+urine,blood
+urine,blood
+man,patient
+man,patient
+man,anterior
+man,anterior
+patient,anal
+patient,anal
+man,female
+man,female
+rectum,cecum
+rectum,cecum
+rectum,sigmoid
+rectum,edema
+rectum,sigmoid
+rectum,edema
+rectum,sigmoid
+rectum,edema
+anesthesia,mouth
+anesthesia,esophagus
+anesthesia,mouth
+anesthesia,esophagus
+anesthesia,mouth
+anesthesia,esophagus
+endoscope,stomach
+endoscope,stomach
+endoscope,stomach
+endoscope,stomach
+endoscope,stomach
+endoscope,stomach
+patient,man
+patient,man
+abdomen,liver
+abdomen,liver
+gallbladder,pancreas
+gallbladder,spleen
+gallbladder,adrenal glands
+gallbladder,kidneys
+gallbladder,pancreas
+gallbladder,spleen
+gallbladder,adrenal glands
+gallbladder,kidneys
+gallbladder,pancreas
+gallbladder,spleen
+gallbladder,adrenal glands
+gallbladder,kidneys
+gallbladder,pancreas
+gallbladder,spleen
+gallbladder,adrenal glands
+gallbladder,kidneys
+gallbladder,pancreas
+gallbladder,spleen
+gallbladder,adrenal glands
+gallbladder,kidneys
+lymphadenopathy,patient
+lymphadenopathy,patient
+abdomen,pelvis
+abdomen,pelvis
+abdomen,pelvis
+abdomen,pelvis
+abdomen,pelvis
+abdomen,pelvis
+abdomen,pelvis
+abdomen,pelvis
+stool,colon
+stool,colon
+liver,spleen
+liver,adrenal glands
+liver,pancreas
+liver,spleen
+liver,adrenal glands
+liver,pancreas
+liver,spleen
+liver,adrenal glands
+liver,pancreas
+liver,spleen
+liver,adrenal glands
+liver,pancreas
+patient,stool
+patient,bladder
+patient,stool
+patient,bladder
+patient,stool
+patient,bladder
+rectum,colon
+rectum,cecum
+rectum,ileocecal valve
+rectum,colon
+rectum,cecum
+rectum,ileocecal valve
+rectum,colon
+rectum,cecum
+rectum,ileocecal valve
+rectum,colon
+rectum,cecum
+rectum,ileocecal valve
+mucosa,colon
+mucosa,colon
+sigmoid,colon
+sigmoid,inflammation
+sigmoid,colon
+sigmoid,inflammation
+sigmoid,colon
+sigmoid,inflammation

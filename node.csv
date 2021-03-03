@@ -1,0 +1,164 @@
+name,nodesize,group
+abdomen,494,ORGAN
+patient,567,ORGANISM
+esophagus,311,ORGAN
+biopsies,178,CANCER
+gallbladder,204,ORGAN
+endoscope,140,PATHOLOGICAL_FORMATION
+rectum,160,ORGAN
+sigmoid,140,ORGAN
+liver,168,ORGAN
+abdominal wall,115,PATHOLOGICAL_FORMATION
+stomach,237,ORGAN
+anus,70,ORGAN
+skin,105,ORGAN
+fascia,68,IMMATERIAL_ANATOMICAL_ENTITY
+area,88,CANCER
+cecum,153,ORGAN
+cystic duct,70,PATHOLOGICAL_FORMATION
+ileum,89,MULTI_TISSUE_STRUCTURE
+demerol,50,SIMPLE_CHEMICAL
+gastroscope,46,PATHOLOGICAL_FORMATION
+small bowel,56,ORGAN
+carbon dioxide,45,SIMPLE_CHEMICAL
+esophageal,45,ORGAN
+stone,67,ORGAN
+wound,44,PATHOLOGICAL_FORMATION
+guidewire,35,SIMPLE_CHEMICAL
+omentum,42,ORGAN
+cardia,30,ORGAN
+female,99,ORGANISM
+kidneys,57,ORGAN
+bowel,37,ORGAN
+anesthesia,50,ORGANISM_SUBDIVISION
+potassium,36,SIMPLE_CHEMICAL
+oropharynx,39,ORGAN
+mucosa,30,MULTI_TISSUE_STRUCTURE
+urine,30,ORGANISM_SUBSTANCE
+mouth,60,CANCER
+anterior,66,ORGAN
+body,57,ORGANISM_SUBDIVISION
+needle,25,TISSUE
+pelvis,127,ORGAN
+stool,31,ORGAN
+fundus,32,MULTI_TISSUE_STRUCTURE
+duodenal bulb,37,MULTI_TISSUE_STRUCTURE
+marcaine,18,SIMPLE_CHEMICAL
+cystic artery,31,MULTI_TISSUE_STRUCTURE
+pancreas,87,ORGAN
+tumor,23,CANCER
+biopsy,34,ORGAN
+antrum,64,ORGAN
+edema,32,PATHOLOGICAL_FORMATION
+colon,199,ORGAN
+anterior abdominal wall,42,MULTI_TISSUE_STRUCTURE
+tissues,19,TISSUE
+oral,18,ORGANISM_SUBDIVISION
+polyps,18,PATHOLOGICAL_FORMATION
+colon cancer,23,CANCER
+trocar,29,PATHOLOGICAL_FORMATION
+extremities,12,ORGAN
+pylorus,42,ORGAN
+gastric pouch,17,PATHOLOGICAL_FORMATION
+midline,24,IMMATERIAL_ANATOMICAL_ENTITY
+correct.having,10,GENE_OR_GENE_PRODUCT
+duodenum,82,ORGAN
+hemoglobin,18,GENE_OR_GENE_PRODUCT
+heart,8,ORGAN
+abdominal,13,ORGAN
+rectosigmoid,23,ORGAN
+abdominal cavity,22,PATHOLOGICAL_FORMATION
+lymphadenopathy,8,ORGAN
+polyp,23,ORGAN
+mesoappendix,8,ORGAN
+chest,17,ORGANISM_SUBDIVISION
+bladder,29,ORGAN
+cancer,11,CANCER
+bilirubin,22,GENE_OR_GENE_PRODUCT
+tube,15,TISSUE
+colonic mucosa,11,MULTI_TISSUE_STRUCTURE
+epinephrine,14,SIMPLE_CHEMICAL
+legs,6,ORGANISM_SUBDIVISION
+mesentery,12,ORGAN
+phenergan,6,SIMPLE_CHEMICAL
+ileocecal valve,50,PATHOLOGICAL_FORMATION
+ulcer,8,PATHOLOGICAL_FORMATION
+man,24,ORGANISM
+subxiphoid,21,ORGAN
+blood,31,ORGANISM_SUBSTANCE
+hypopharynx,22,CANCER
+hepatic flexure,49,MULTI_TISSUE_STRUCTURE
+lesions,23,CANCER
+xiphoid,4,ORGAN
+diverticular,13,ORGAN
+lumen,22,IMMATERIAL_ANATOMICAL_ENTITY
+peritoneum,22,MULTI_TISSUE_STRUCTURE
+umbilicus,19,ORGAN
+muscles,6,ORGAN
+tissue,6,TISSUE
+subcostal,8,ORGANISM_SUBDIVISION
+jejunum,8,ORGAN
+gallbladder wall,7,TISSUE
+diaphragm,6,ORGAN
+kidney,12,ORGAN
+stricture,15,PATHOLOGICAL_FORMATION
+eea,2,GENE_OR_GENE_PRODUCT
+inflammation,53,PATHOLOGICAL_FORMATION
+esophageal sphincter,10,PATHOLOGICAL_FORMATION
+lungs,7,ORGAN
+saline,15,SIMPLE_CHEMICAL
+pouch,8,ORGAN
+subcutaneous tissues,12,TISSUE
+lymphatic,4,ORGAN
+aorta,2,MULTI_TISSUE_STRUCTURE
+passy-muir,2,GENE_OR_GENE_PRODUCT
+gentleman,22,ORGANISM
+renal,2,ORGAN
+lidocaine,17,SIMPLE_CHEMICAL
+metoprolol,2,SIMPLE_CHEMICAL
+graft,2,ORGAN
+muscle,13,ORGAN
+subcutaneous tissue,33,TISSUE
+g-tube,4,ORGAN
+ulcers,12,PATHOLOGICAL_FORMATION
+colonic,9,ORGAN
+gallstones,8,ORGAN
+alcohol,8,SIMPLE_CHEMICAL
+tract,4,ORGAN
+coumadin,6,SIMPLE_CHEMICAL
+creatinine,26,SIMPLE_CHEMICAL
+hepatitis,7,ORGANISM
+spleen,73,ORGAN
+adrenal glands,61,MULTI_TISSUE_STRUCTURE
+betadine,27,SIMPLE_CHEMICAL
+retroperitoneal,18,ORGAN
+liver bed,16,MULTI_TISSUE_STRUCTURE
+albumin,15,GENE_OR_GENE_PRODUCT
+sheath,14,TISSUE
+fentanyl,14,SIMPLE_CHEMICAL
+caudad,12,ORGAN
+gastritis,9,ORGAN
+meals,9,ORGANISM
+colon polyps,8,PATHOLOGICAL_FORMATION
+esophagitis,6,ORGAN
+platelets,6,CELL
+patients,6,ORGANISM
+ampulla,6,ORGAN
+anal,6,ORGAN
+scar,6,PATHOLOGICAL_FORMATION
+umbilical,6,CELL
+uterus,5,ORGAN
+sigmoid colon,5,TISSUE
+intravenous,5,IMMATERIAL_ANATOMICAL_ENTITY
+artery,4,MULTI_TISSUE_STRUCTURE
+iliac artery,4,MULTI_TISSUE_STRUCTURE
+hiatal,4,ORGANISM_SUBDIVISION
+uterine,3,CANCER
+glucose,3,SIMPLE_CHEMICAL
+cardiac,3,ORGAN
+chills,2,CANCER
+renal artery,2,MULTI_TISSUE_STRUCTURE
+anteriorly,2,ORGAN
+gastric,2,ORGAN
+stools,2,ORGAN
+fat,2,TISSUE
