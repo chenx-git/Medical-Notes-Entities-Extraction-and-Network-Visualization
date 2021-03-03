@@ -1,7 +1,7 @@
 # Medical-Notes-Entities-Extraction-and-Network-Generation
 Using ScispaCy to extract and identify entities in medical texts and generate networks visualizations
 ### Data Source---https://www.kaggle.com/c/medical-notes/data
-### NLP package used--ScispaCy<li>Source: https://www.semanticscholar.org/paper/ScispaCy%3A-Fast-and-Robust-Models-for-Biomedical-Neumann-King/de28ec1d7bd38c8fc4e8ac59b6133800818b4e29<li>Website: https://spacy.io/universe/project/scispacy
+### NLP package used--ScispaCy<li>Website: https://spacy.io/universe/project/scispacy
 ### Data format--text
 ### Text Data Example:
 > B>STUDY:  </B>A trial of Passy-Muir valve was completed to allow the patient to achieve hands-free voicing and also to improve his secretion management.  A clinical swallow evaluation was not completed due to the severity of the patient's mucus and lack of saliva control.
