@@ -12,8 +12,8 @@ Using ScispaCy to extract and identify entities in medical texts and generate ne
 
 
 ## Consist: 2 code files
-### 1.from medical note text data, extract entities informaiton to edges and nodes dataframe and stored in csv
-### 2.build network and sub-networks to visualize the entities relationship
+### 1. from medical note text data, extract entities informaiton to edges and nodes dataframe and stored in csv --- ScispaCy 
+### 2. build network and sub-networks to visualize the entities relationship --- NetworkX
 
 
 ## Some network graphs:
