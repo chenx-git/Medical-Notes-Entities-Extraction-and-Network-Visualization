@@ -11,9 +11,10 @@ Using ScispaCy to extract and identify entities in medical texts and generate ne
 > For his neuromuscular electrical stimulation therapy, the type was BMR with a single mode cycle time is 4 seconds and 12 seconds off with frequency was 60 __________ with a ramp of 2 seconds, phase duration was 220 with an output of 99 milliamps.  Electrodes were placed on the suprahyoid/submandibular triangle with an upright body position, trial length was 10 minutes.  On a pain scale, the patient reported no pain with the electrical stimulation therapy.
 
 
-## 2 jupyter notebook
-<li> from medical note text data, extract entities informaiton to edges and nodes dataframe and stored in csv
-<li> build network and sub-networks to visualize the entities relationship
+## Consist: 2 code files
+### 1.from medical note text data, extract entities informaiton to edges and nodes dataframe and stored in csv
+### 2.build network and sub-networks to visualize the entities relationship
+
 
 ## Some network graphs:
 ![overall network](https://github.com/eduhkdcx/Medical-notes-entities-extraction-and-network-visualization/blob/main/plots/whole.png)
